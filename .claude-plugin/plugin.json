@@ -2,7 +2,17 @@
   "name": "cardzen",
   "displayName": "Cardzen",
   "version": "0.2.0",
-  "description": "Look up documented card benefits and Cardzen-tracked credit activity.",
+  "description": "Credit card rewards made clear",
+  "keywords": [
+    "credit cards",
+    "rewards",
+    "card benefits",
+    "statement credits",
+    "expiring credits",
+    "renewals",
+    "wallet",
+    "annual fees"
+  ],
   "author": {
     "name": "Cardzen, LLC",
     "url": "https://cardzen.ai"
