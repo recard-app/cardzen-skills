@@ -6,5 +6,7 @@
   "author": {
     "name": "Cardzen, LLC",
     "url": "https://cardzen.ai"
-  }
+  },
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://cardzen.ai/privacy"
 }
