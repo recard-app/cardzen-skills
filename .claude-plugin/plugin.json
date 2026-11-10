@@ -1,7 +1,7 @@
 {
   "name": "cardzen",
   "displayName": "Cardzen",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Connect your Cardzen wallet to look up your credit card benefits, see when credits expire, and review the credits you’ve used this year.",
   "keywords": [
     "credit cards",
@@ -18,5 +18,9 @@
     "url": "https://cardzen.ai"
   },
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://cardzen.ai/privacy"
+  "privacyPolicyUrl": "https://cardzen.ai/privacy",
+  "homepage": "https://cardzen.ai",
+  "documentationUrl": "https://cardzen.ai/help/integrations/mcp/claude",
+  "supportUrl": "https://cardzen.ai/help",
+  "termsOfServiceUrl": "https://cardzen.ai/terms"
 }
