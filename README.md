@@ -1,5 +1,5 @@
-# Cardzen Claude plugin candidate 0.2.0
+# Cardzen for Claude
 
-This local draft bundles the existing Cardzen MCP connector with three read-only skills: factual wallet benefit lookup, tracked credit expiration questions, and a section-scoped annual credit review. It does not add OAuth scopes, write instructions, scripts, hooks, or another endpoint. The connector still enforces authorization and plan limits.
+Connect your Cardzen account to look up documented benefits on cards in your wallet and see credit expiration dates. With Pro, review the credits you’ve used this year. You can also ask Claude to update your Cardzen wallet, such as adding a card, marking it closed in Cardzen, or correcting saved ownership dates. Available features depend on your Cardzen plan and permissions.
 
-The MIT LICENSE applies only to the three bundled SKILL.md instruction files. Branding, other package files, service access, and OAuth grants are outside that license. Verify source schema, endpoint behavior, OAuth connection, skill activation, and provider validation on supported Claude surfaces before submission.
+The MIT license in the bundled LICENSE applies only to the three SKILL.md instruction files it names. The wallet-actions SKILL.md carries its own MIT notice. Cardzen branding, other package files, service access and OAuth grants are outside those license grants.

@@ -1,8 +1,8 @@
 {
   "name": "cardzen",
   "displayName": "Cardzen",
-  "version": "0.2.0",
-  "description": "Credit card rewards made clear",
+  "version": "0.2.1",
+  "description": "Connect your Cardzen wallet to look up your credit card benefits, see when credits expire, and review the credits you’ve used this year.",
   "keywords": [
     "credit cards",
     "rewards",
