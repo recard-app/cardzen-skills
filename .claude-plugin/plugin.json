@@ -1,7 +1,7 @@
 {
   "name": "cardzen",
   "displayName": "Cardzen",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Connect your Cardzen wallet to look up your credit card benefits, see when credits expire, and review the credits you’ve used this year.",
   "keywords": [
     "credit cards",
